@@ -1,0 +1,38 @@
+[
+   {
+        "id": 8344,
+        "parent": 182,
+        "name": "Водолазки",
+        "seo": "Водолазки для мальчиков",
+        "url": "/catalog/detyam/odezhda/dlya-malchikov/vodolazki",
+        "shard": "children_boys1",
+        "query": "cat=8344"
+    },
+    {
+        "id": 8337,
+        "parent": 182,
+        "name": "Джемперы и кардиганы",
+        "seo": "Джемперы и кардиганы для мальчиков",
+        "url": "/catalog/detyam/odezhda/dlya-malchikov/dzhempery-i-kardigany",
+        "shard": "children_boys3",
+        "query": "cat=8337"
+    },
+    {
+        "id": 8335,
+        "parent": 182,
+        "name": "Джинсы",
+        "seo": "Джинсы для мальчиков",
+        "url": "/catalog/detyam/odezhda/dlya-malchikov/dzhinsy",
+        "shard": "children_boys2",
+        "query": "cat=8335"
+    },
+    {
+        "id": 8341,
+        "parent": 182,
+        "name": "Жилеты",
+        "seo": "Жилеты для мальчиков",
+        "url": "/catalog/detyam/odezhda/dlya-malchikov/zhilety",
+        "shard": "children_boys1",
+        "query": "cat=8341"
+    }
+]

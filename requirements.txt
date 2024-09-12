@@ -1,0 +1,4 @@
+selenium==4.10.0
+python-telegram-bot==20.0
+asyncio==3.4.3
+mysql-connector-python==8.0.33
